@@ -4,7 +4,7 @@
 from scapy.all import *
 import time
 
-TARGET_SUBNET = "192.168.0.0/24" # Target IP
+TARGET_SUBNET = "192.xxx.xx.0/24" # Target IP
 SCAN_INTERVAL = 60
 
 # previous_devices = {
